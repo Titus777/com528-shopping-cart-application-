@@ -105,3 +105,7 @@ This part shows the admin and user point of view
 | T4 | Admin has the power to modify orders| Allows administrator to remove/add items | fail  |
 | T5 | Admin can see all the items the user has ordered | this is by pressing the orders link | pass | 
 | T6 | Admin can log out |  takes them to the home page|  pass   |
+
+
+
+![image](https://user-images.githubusercontent.com/72074715/148391788-b8d830e8-d0d2-475f-8953-211d2fbde74e.png)
