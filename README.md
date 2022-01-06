@@ -60,7 +60,7 @@ This part shows the admin and user point of view
 
 | Admin | Action | Response|
 |------|--------|---------|
-| 1 | Admin logs in | Redirects to the admin side of the website | 
+| 1 | Admin logs in using username = globaladmin password = globaladmin | Redirects to the admin side of the website | 
 | 2 | Admin can view and modify users in the system| leads to a page that only administrators may access|
 | 3 | Admin can modify orders | by adding items to the catalogue for the admin and user|
 | 4 | Admin can remove users | Deletes the user from the system |
@@ -71,7 +71,7 @@ This part shows the admin and user point of view
 |User | Action | Response|
 |------|--------|---------|
 | 1 | User enters application Web address in web browser | Links back user to home page |
-| 2 | The user must log in to the programme | the user is then taken to the home page
+| 2 | The user must log in to the programme using username = user1234 password = user1234| the user is then taken to the home page
 | 3 | The user can add products to their shopping cart using the add button| the item is then added to the shopping cart |
 | 4 | Items in the basket or shopping cart can be removed by the user | Removes the item and removes the amount immediately|
 | 5 | By tapping the pucharse button, the user can purchase the things | takes the user to the checkout |
