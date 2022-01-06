@@ -111,12 +111,16 @@ This part shows the admin and user point of view
 
 robustness diagram
 
+The following Robusteness diagram shows a use case's behaviour, including participant classes and software behaviour. This graphic shows a user buying a item from the catalog, then entering card details to buy the items. Also showing the admin side of things such as modifying the items and the orders. 
 
 ![image](https://user-images.githubusercontent.com/72074715/148404521-3a175ec0-a915-4078-ba44-94d0755a79b1.png)
 
 
 
 sequence diagram
+
+
+Sequence diagrams depict the interactions that must occur in order for a process to be completed. the diagram below shows the roles of each user which includes the user/customer, admin and also shows the importance of the cart.
 
 ![image](https://user-images.githubusercontent.com/72074715/148391788-b8d830e8-d0d2-475f-8953-211d2fbde74e.png)
 
