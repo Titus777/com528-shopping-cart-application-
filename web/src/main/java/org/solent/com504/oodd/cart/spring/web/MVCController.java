@@ -168,6 +168,18 @@ public class MVCController {
         model.addAttribute("selectedPage", "admin");
         return "catalog";
     }
+    
+    @RequestMapping(value = "/orders", method = {RequestMethod.GET, RequestMethod.POST})
+    public String OrdersList(Model model, HttpSession session) {
+
+        // get sessionUser from session
+        User sessionUser = getSessionUser(session);
+        model.addAttribute("sessionUser", sessionUser);
+        
+        // used to set tab selected
+        model.addAttribute("selectedPage", "orders");
+        return "orders";
+    }
 
    @RequestMapping(value = {"/createItem"}, method = RequestMethod.GET)
     public String createItem(
