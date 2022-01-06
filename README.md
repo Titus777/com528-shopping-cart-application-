@@ -71,7 +71,7 @@ This part shows the admin and user point of view
 |User | Action | Response|
 |------|--------|---------|
 | 1 | User enters application Web address in web browser | Links back user to home page |
-| 2 | The user must log in to the programme using username = user1234 password = user1234| the user is then taken to the home page
+| 2 | The user must create an account or log in to the programme using username = user1234 password = user1234| the user is then taken to the home page
 | 3 | The user can add products to their shopping cart using the add button| the item is then added to the shopping cart |
 | 4 | Items in the basket or shopping cart can be removed by the user | Removes the item and removes the amount immediately|
 | 5 | By tapping the pucharse button, the user can purchase the things | takes the user to the checkout |
