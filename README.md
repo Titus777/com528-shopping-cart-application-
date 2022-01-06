@@ -107,5 +107,16 @@ This part shows the admin and user point of view
 | T6 | Admin can log out |  takes them to the home page|  pass   |
 
 
+robustness diagram
+
+
+![image](https://user-images.githubusercontent.com/72074715/148404521-3a175ec0-a915-4078-ba44-94d0755a79b1.png)
+
+
+
+sequence diagram
 
 ![image](https://user-images.githubusercontent.com/72074715/148391788-b8d830e8-d0d2-475f-8953-211d2fbde74e.png)
+
+
+
