@@ -80,6 +80,8 @@ This part shows the admin and user point of view
 | 8 | If the user provides incorrect information| To correct the information, an error notice appears |
 | 9 | If the user inputs the correct information | A verification notice will appear on the screen |
 | 10 | The my orders page allows users to view their orders | its takes them to the order page where their orders have been choosen|
+| 11 | about page tells you about the website | its takes them to the about page|
+| 2 | contact page lets you contact the website | its takes them to the contact page, shows a form where you can fill in and send a message|
 
 ## User Tests
 
