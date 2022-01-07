@@ -29,12 +29,12 @@
                </tr>
                <tr>
                   <td>Message</td>
-                  <td><textarea type="text" name="message" value="" class="form-group" style="margin: 0px 0px 15px; width: 299px; height: 57px;" required> </textarea></td>
+                  <td><textarea type="text" name="message" value="" class="form-group" style="margin: 0px 0px 25px; width: 299px; height: 57px;" required> </textarea></td>
                </tr>
             </tbody>
          </table>
          <input name="action" type="hidden" value="email">
-         <button class="btn ml-2 rounded" type="submit">Send Email</button>
+         <button class="" type="submit">Send Email</button>
       </div>
    </form>
    <% if (("email".equals(action))) {%>
