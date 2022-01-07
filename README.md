@@ -90,7 +90,7 @@ This part shows the admin and user point of view
 | 1 | User enters application Web address in web browser | Links back user to home page |pass  |
 | 2 | The user can either log in or register for an account | either the user can successfully login or can't due to incorrect information  | pass  |
 | 3 | the user can add any items to the shopping cart | the items gets added to shopping cart, which includes the price and total number | pass |
-| 4 | the user can buy the items by going to the basket page | taken to the checkout page | fail   |
+| 4 | the user can buy the items by going to the checkout page, see on the nav bar | taken to the checkout page | pass   |
 | 5 | if the user submits with wrong card details | an error message will show up and the transaction is failed | fail |
 | 6 | if the card details are correct | the payments gets accepted|  fail  |
 | 7 | the user can see the items in the order page | shows the items and status | pass   |
