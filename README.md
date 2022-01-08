@@ -103,8 +103,8 @@ This part shows the admin and user point of view
 | --------- | --------------------------- | -------------------------------- | ------ |
 | T1 | The application's host url is entered by the administrator. | admin will be taken to the home page | pass |
 | T2 | Admin can log in | either the admin can successfully login or can't due to incorrect information| pass  |
-| T3 | Admin has the power to modify the users| Allows the administrator to add/remove users | pass   |
-| T4 | Admin has the power to modify orders| Allows administrator to remove/add items | fail  |
+| T3 | Admin has the power to modify the users| administrator will be able to add/remove users | pass   |
+| T4 | Admin has the power to modify orders| administrator to remove/add items | fail  |
 | T5 | Admin can see all the items the user has ordered | this is by pressing the orders link | pass | 
 | T6 | Admin can log out |  takes them to the home page|  pass   |
 
