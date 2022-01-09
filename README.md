@@ -93,7 +93,7 @@ This part shows the admin and user point of view
 | 4 | the user can buy the items by going to the checkout page, see on the nav bar | taken to the checkout page | pass   |
 | 5 | if the user submits with wrong card details | an error message will show up and the transaction is failed | fail |
 | 6 | if the card details are correct | the payments gets accepted|  fail  |
-| 7 | the user can see the items in the order page | shows the items and status | pass   |
+| 7 | the user can see the items in the order page | shows the items and status whens its ordered | pass   |
 | 8 | User can log out | takes them to home page | pass   |
 
 ## Admin Tests
