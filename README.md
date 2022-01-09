@@ -127,8 +127,11 @@ Sequence diagrams depict the interactions that must occur in order for a process
 
 use case diagram
 
+
 ![image](https://user-images.githubusercontent.com/72074715/148695846-58c79a6b-bcca-458a-8ec4-a1f779c1a454.png)
 
 
 model diagram
 
+
+![image](https://user-images.githubusercontent.com/72074715/148697473-23f4ea7c-5c49-4a65-a64c-46856bdbaab9.png)
