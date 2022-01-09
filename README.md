@@ -125,4 +125,10 @@ Sequence diagrams depict the interactions that must occur in order for a process
 ![image](https://user-images.githubusercontent.com/72074715/148391788-b8d830e8-d0d2-475f-8953-211d2fbde74e.png)
 
 
+use case diagram
+
+![image](https://user-images.githubusercontent.com/72074715/148695846-58c79a6b-bcca-458a-8ec4-a1f779c1a454.png)
+
+
+model diagram
 
