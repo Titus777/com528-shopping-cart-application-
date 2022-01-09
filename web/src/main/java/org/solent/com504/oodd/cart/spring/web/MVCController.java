@@ -200,6 +200,18 @@ public class MVCController {
         model.addAttribute("errorMessage", errorMessage);
         return "ModifyItem";
     }
+    
+    @RequestMapping(value = "/properties", method = {RequestMethod.GET, RequestMethod.POST})
+    public String propertiesCart(Model model, HttpSession session) {
+
+        // get sessionUser from session
+        User sessionUser = getSessionUser(session);
+        model.addAttribute("sessionUser", sessionUser);
+        
+        // used to set tab selected
+        model.addAttribute("selectedPage", "properties");
+        return "properties";
+    }
 
     @RequestMapping(value = "/basket", method = {RequestMethod.GET, RequestMethod.POST})
     public String basketCart(@RequestParam(name = "action", required = false) String action,

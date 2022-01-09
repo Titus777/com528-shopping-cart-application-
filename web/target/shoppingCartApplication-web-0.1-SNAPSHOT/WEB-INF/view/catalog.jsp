@@ -52,5 +52,6 @@
             <button class="btn" type="submit" >Add Item</button>
         </form> 
     </div>
+        
 </main>
 <jsp:include page="footer.jsp" />

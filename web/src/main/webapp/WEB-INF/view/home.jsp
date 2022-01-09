@@ -77,7 +77,7 @@
             <td>${shoppingcartTotal}</td>
         </tr>
     </table>
-
+<button type="button" onclick="window.location.href='basket'">Basket</button>
 
 
 </main>
