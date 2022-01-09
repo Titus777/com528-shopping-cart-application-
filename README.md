@@ -1,4 +1,4 @@
-# Ehopping Application program template
+# shopping Application program template
 
 This is based upon the Shopping Cart Using Spring with Bootstrap in session 6
 
@@ -127,11 +127,13 @@ Sequence diagrams depict the interactions that must occur in order for a process
 
 use case diagram
 
+A use case diagram shows us the interaction between the users/admins and the system by telling us what it's meant to do. The diagram below shows the use case for the user and admin, what there roles are within the application and how it connects together, for example the user can place the order and the admin can then modify.
 
 ![image](https://user-images.githubusercontent.com/72074715/148695846-58c79a6b-bcca-458a-8ec4-a1f779c1a454.png)
 
 
 model diagram
 
+The model diagram shows us the classes and relationships, how its connected to eachother within the system. which is simple version of the code, if you dont understand coding.
 
 ![image](https://user-images.githubusercontent.com/72074715/148697473-23f4ea7c-5c49-4a65-a64c-46856bdbaab9.png)
